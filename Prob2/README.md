@@ -1,3 +1,5 @@
+Problem Statement
+
 The manager of OYO has to buy some tablechairs for a couple-pool-hotel. For each of
 the four banks of the pool, he wants to have an equal number of tablechairs. There are
 three types of tablechairs set in the outlet. It is possible to buy a set of one tablechairs
